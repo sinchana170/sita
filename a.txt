@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 hoi
+=======
+bol
+>>>>>>> Stashed changes
